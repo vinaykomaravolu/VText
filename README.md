@@ -6,7 +6,7 @@ VText is a Windows text/Code editor made entirely from C++, GLSL, GLFW, openGL, 
 Download the VText folder and run the VText.exe
 
 # Additional Details
-* Saves state of text editor when exiting the program and reloads state up startup. 
+* Saves state of text editor when exiting the program and reloads state upon startup. 
 * Python files can be compiled and run.
 * Command Line output is displayed to the user.
 * [Imgui](https://github.com/ocornut/imgui) most of features regarding GUI. The File Chooser, Text View, and Layout were created from ground up for the purpose of this project (the code can be found in imgui_tools.h).
