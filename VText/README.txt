@@ -1,0 +1,2 @@
+-Click VText.exe to run the program
+-save the VText Folder at any location

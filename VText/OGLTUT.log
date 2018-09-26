@@ -1,0 +1,55 @@
+﻿  main.cpp
+c:\users\main\source\repos\text\main.cpp(100): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\main\source\repos\text\main.cpp(211): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\main\source\repos\text\main.cpp(212): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\main\source\repos\text\main.cpp(214): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  aldlist.cpp
+  CWaves.cpp
+  Framework.cpp
+  imgui.cpp
+  imguitabwindow.cpp
+c:\users\main\source\repos\text\src\imguitabwindow.cpp(53): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\main\source\repos\text\src\imguitabwindow.cpp(53): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+c:\users\main\source\repos\text\src\imguitabwindow.cpp(116): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\main\source\repos\text\src\imguitabwindow.cpp(171): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\main\source\repos\text\src\imguitabwindow.cpp(172): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\main\source\repos\text\src\imguitabwindow.cpp(191): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\main\source\repos\text\src\imguitabwindow.cpp(262): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\main\source\repos\text\src\imguitabwindow.cpp(317): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\main\source\repos\text\src\imguitabwindow.cpp(318): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\main\source\repos\text\src\imguitabwindow.cpp(337): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\main\source\repos\text\src\imguitabwindow.cpp(717): warning C4244: 'initializing': conversion from 'float' to 'ImU32', possible loss of data
+c:\users\main\source\repos\text\src\imguitabwindow.cpp(754): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\main\source\repos\text\src\imguitabwindow.cpp(775): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\main\source\repos\text\src\imguitabwindow.cpp(964): warning C4305: 'argument': truncation from 'double' to 'float'
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  LoadOAL.cpp
+  TextEditor.cpp
+c:\users\main\source\repos\text\src\texteditor.cpp(38): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\main\source\repos\text\src\texteditor.cpp(264): warning C4018: '<': signed/unsigned mismatch
+c:\users\main\source\repos\text\src\texteditor.cpp(339): warning C4018: '>': signed/unsigned mismatch
+c:\users\main\source\repos\text\src\texteditor.cpp(610): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\main\source\repos\text\src\texteditor.cpp(623): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\main\source\repos\text\src\texteditor.cpp(954): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  glad.c
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/PROFILE' specification
+main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:REF' specification
+glfw3.lib(context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(context.obj)' or at 'C:\Users\Main\source\repos\Text\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(init.obj)' or at 'C:\Users\Main\source\repos\Text\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(input.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(input.obj)' or at 'C:\Users\Main\source\repos\Text\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(monitor.obj)' or at 'C:\Users\Main\source\repos\Text\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(vulkan.obj)' or at 'C:\Users\Main\source\repos\Text\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(window.obj)' or at 'C:\Users\Main\source\repos\Text\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_init.obj)' or at 'C:\Users\Main\source\repos\Text\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_joystick.obj)' or at 'C:\Users\Main\source\repos\Text\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_monitor.obj)' or at 'C:\Users\Main\source\repos\Text\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_time.obj)' or at 'C:\Users\Main\source\repos\Text\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_tls.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_tls.obj)' or at 'C:\Users\Main\source\repos\Text\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_window.obj)' or at 'C:\Users\Main\source\repos\Text\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(wgl_context.obj)' or at 'C:\Users\Main\source\repos\Text\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(egl_context.obj)' or at 'C:\Users\Main\source\repos\Text\Debug\glfw.pdb'; linking object as if no debug info
+  OGLTUT.vcxproj -> C:\Users\Main\source\repos\Text\Debug\Text.exe
