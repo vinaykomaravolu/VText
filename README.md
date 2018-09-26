@@ -20,7 +20,7 @@ Download the VText folder and run the VText.exe
 * Multiplatform integration.
 
 # Graphics Engine
-for more information regarding the graphics engine: [OpenGL-Graphics-Engine](https://github.com/vinaykomaravolu/OpenGL-Graphics-Engine).
+For more information regarding the graphics engine: [OpenGL-Graphics-Engine](https://github.com/vinaykomaravolu/OpenGL-Graphics-Engine).
 
 # Tools used in the Project:
 * OpenGL
@@ -37,7 +37,7 @@ for more information regarding the graphics engine: [OpenGL-Graphics-Engine](htt
 ## Layout
 ![Layout Demo](git_resources/vtext_dem_widgets.gif)
 
-## Compiling/Runnin Python Fil
+## Compiling/Running Python File
 ![Pyhton demo](git_resources/vtext_dem_py.gif)
 
 ## Resizing
