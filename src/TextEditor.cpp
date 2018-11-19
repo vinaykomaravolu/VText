@@ -4,6 +4,8 @@
 #include <regex>
 #include <cmath>
 
+//CODE FROM: https://github.com/BalazsJako/ImGuiColorTextEdit
+
 #include <TextEditor.h>
 
 #define IMGUI_DEFINE_MATH_OPERATORS
