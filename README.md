@@ -29,6 +29,9 @@ For more information regarding the graphics engine: [OpenGL-Graphics-Engine](htt
 * GLSL
 * C++
 
+# References
+* TextEditor.cpp, TextEditor.h from [ImGuiColorTextEdit](https://github.com/BalazsJako/ImGuiColorTextEdit).
+
 # Demonstration
 
 ## File Chooser
