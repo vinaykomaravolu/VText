@@ -9,7 +9,7 @@
 #include <map>
 #include <regex>
 #include <imgui/imgui.h>
-
+//CODE FROM: https://github.com/BalazsJako/ImGuiColorTextEdit
 class TextEditor
 {
 public:
