@@ -2,10 +2,10 @@
 ![Main Image](git_resources/vtext_dem_0.png)
 VText is a Windows text/Code editor made entirely from C++, GLSL, GLFW, openGL, and [Imgui](https://github.com/ocornut/imgui). VText allows the user to create file/directories, edit new and old files, and run python files. VText also uses runs Windows Command Prompt commands and displays the output in the text editor itself.
 
-# Usage
+## Usage
 Download the VText folder and run the VText.exe
 
-# Additional Details
+## Additional Details
 * Saves state of text editor when exiting the program and reloads state upon startup. 
 * Python files can be compiled and run.
 * Command Line output is displayed to the user.
@@ -13,26 +13,26 @@ Download the VText folder and run the VText.exe
 * Graphics Engine is created from scratch using C++, OpenGL, GLSL, GLFW, and various other libraries.
 * Can switch between text or code editor.
 
-# Future development
+## Future development
 * Create easy way to compile and run Java, C, C++ and various other languages.
 * Ability to create more Text views via tabs.
 * Ability to analyze information of a particular file.
 * Multiplatform integration.
 
-# Graphics Engine
+## Graphics Engine
 For more information regarding the graphics engine: [OpenGL-Graphics-Engine](https://github.com/vinaykomaravolu/OpenGL-Graphics-Engine).
 
-# Tools used in the Project:
+## Tools used in the Project:
 * OpenGL
 * ImGui
 * GLFW
 * GLSL
 * C++
 
-# References
+## References
 * TextEditor.cpp, TextEditor.h from [ImGuiColorTextEdit](https://github.com/BalazsJako/ImGuiColorTextEdit).
 
-# Demonstration
+## Demonstration
 
 ## File Chooser
 ![File Chooser Demo](git_resources/vtext_dem_fs.gif)
